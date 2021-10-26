@@ -1,0 +1,13 @@
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.exe
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.deps.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.runtimeconfig.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.runtimeconfig.dev.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.csprojAssemblyReference.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.csproj.CoreCompileInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.AssemblyInfoInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.AssemblyInfo.cs
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.genruntimeconfig.cache

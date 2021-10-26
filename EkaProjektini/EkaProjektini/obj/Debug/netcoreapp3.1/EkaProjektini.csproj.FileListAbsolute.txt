@@ -1,0 +1,13 @@
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.exe
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.deps.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.runtimeconfig.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.runtimeconfig.dev.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.csprojAssemblyReference.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.AssemblyInfo.cs
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.genruntimeconfig.cache
