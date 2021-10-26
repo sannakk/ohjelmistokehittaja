@@ -115,6 +115,41 @@ namespace Harjoituksia_2
                 Console.WriteLine("Suurin numero on: " + nro5);
             }
 
+            Console.WriteLine("Anna luku 0-999: ");
+            int nro = int.Parse(Console.ReadLine());
+            String teksti = "";
+            switch (nro)
+            {
+                case 1:
+                    teksti = "yksi";
+                    break;
+                case 2:
+                    teksti = "kaksi";
+                    break;
+                case 3:
+                    teksti = "kolme";
+                    break;
+                case 4:
+                    teksti = "neljä";
+                    break;
+                case 5:
+                    teksti = "viisi";
+                    break;
+                case 6:
+                    teksti = "kuusi";
+                    break;
+                case 7:
+                    teksti = "seitsemän";
+                    break;
+                case 8:
+                    teksti = "kahdeksan";
+                    break;
+                case 9:
+                    teksti = "yhdeksän";
+                    break;   
+            }
+            
+
         }
     }
 }
