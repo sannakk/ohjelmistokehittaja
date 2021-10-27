@@ -1,0 +1,14 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.deps.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.runtimeconfig.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.runtimeconfig.dev.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\bin\Debug\netcoreapp3.1\Harjoituksia3.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.AssemblyInfoInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.AssemblyInfo.cs
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia3\Harjoituksia3\obj\Debug\netcoreapp3.1\Harjoituksia3.genruntimeconfig.cache
