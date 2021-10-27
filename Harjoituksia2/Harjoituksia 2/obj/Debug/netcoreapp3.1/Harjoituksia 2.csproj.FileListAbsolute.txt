@@ -38,3 +38,17 @@ C:\Users\sanna.kunnasluoto\Source\Repos\ohjelmistokehittaja\Harjoituksia 2\Harjo
 C:\Users\sanna.kunnasluoto\Source\Repos\ohjelmistokehittaja\Harjoituksia 2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.dll
 C:\Users\sanna.kunnasluoto\Source\Repos\ohjelmistokehittaja\Harjoituksia 2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.pdb
 C:\Users\sanna.kunnasluoto\Source\Repos\ohjelmistokehittaja\Harjoituksia 2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.genruntimeconfig.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.AssemblyInfoInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.AssemblyInfo.cs
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.deps.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.runtimeconfig.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.runtimeconfig.dev.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\bin\Debug\netcoreapp3.1\Harjoituksia 2.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Harjoituksia2\Harjoituksia 2\obj\Debug\netcoreapp3.1\Harjoituksia 2.genruntimeconfig.cache
