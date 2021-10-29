@@ -19,7 +19,7 @@ namespace Harjoituksia3
             Console.WriteLine("Lämpötila °F: " + fah);
         }
         static void Tehtävä3()
-        {  
+        {
             decimal luku1 = 2;
             decimal luku2 = 5;
             decimal plus = luku1 + luku2;
@@ -46,7 +46,7 @@ namespace Harjoituksia3
             string nimi = Console.ReadLine();
             Console.WriteLine("Hei " + nimi);
         }
-            static void Tehtävä6()
+        static void Tehtävä6()
         {
             Console.WriteLine("Syötä numero: ");
             int nro1 = int.Parse(Console.ReadLine());
@@ -86,11 +86,59 @@ namespace Harjoituksia3
             int jaannos = luk1 % luk2;
             Console.WriteLine("Antamasi lukujen jakojäännös: " + jaannos);
         }
-        static void Tehtava10()
+        static void Tehtävä10()
         {
             Console.WriteLine("Syötä luku välillä 1-10: ");
             int luku = int.Parse(Console.ReadLine());
-            for (int x = 1; x <=10; x++)
-            Console.WriteLine(luku + "x" + x + "=" + (luku * x));
+            for (int x = 1; x <= 10; x++)
+                Console.WriteLine(luku + "x" + x + "=" + (luku * x));
         }
-    } }
+        static void Tehtävä11()
+        {
+            Console.WriteLine("Anna ikäsi: ");
+            int ika = int.Parse(Console.ReadLine());
+            Console.WriteLine(ika + "-näytät ikäistäsi nuoremmalta!");
+        }
+        static void Tehtävä13()
+        {
+            Console.WriteLine("Anna sana: ");
+            string sana = Console.ReadLine();
+            int kaannos = sana.Length;
+            Console.WriteLine(sana[kaannos - 1] + sana.Substring(1, kaannos - 2) + sana[0]);
+        }
+        static void Tehtävä14()
+        {
+            Console.WriteLine("Anna kokonaisluku: ");
+            int nroo1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen kokonaisluku: ");
+            int nroo2 = int.Parse(Console.ReadLine());
+            if (nroo1 < 0 && nroo2 < 0)
+            {
+                Console.WriteLine("Molemmat ovat negatiivisia");
+            }
+            if (nroo1 >= 0 && nroo2 >= 0)
+            {
+                Console.WriteLine("Molemmat ovat positiivisia");
+            }
+            if (nroo1 < 0 && nroo2 >= 0 || nroo2 < 0 && nroo1 >= 0)
+            {
+                Console.WriteLine("Toinen on positiivinen ja toinen negatiivinen");
+            }
+        }
+        static void Tehtävä16()
+        {
+            for(int x= 1; x < 100; x = x+2)
+            {
+                Console.WriteLine(x);
+            }
+        }
+        static void Tehtävä17()
+        {
+            for (int x = 1; x < 100; x++)
+            if (x % 3 == 0)
+            {
+                Console.WriteLine(x);
+            }
+        }
+    }
+}
