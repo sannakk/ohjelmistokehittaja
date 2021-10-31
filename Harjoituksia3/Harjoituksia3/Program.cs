@@ -99,7 +99,14 @@ namespace Harjoituksia3
             int ika = int.Parse(Console.ReadLine());
             Console.WriteLine(ika + "-näytät ikäistäsi nuoremmalta!");
         }
-        static void Tehtävä13()
+        static void Main()
+        {
+            Console.WriteLine("Anna lukua 10 suurempi luku: ");
+            int nro = int.Parse(Console.ReadLine());
+            Console.WriteLine(nro);
+        }
+
+            static void Tehtävä13()
         {
             Console.WriteLine("Anna sana: ");
             string sana = Console.ReadLine();
