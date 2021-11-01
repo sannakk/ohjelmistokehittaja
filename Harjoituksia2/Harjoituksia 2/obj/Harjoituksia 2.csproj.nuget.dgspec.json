@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj": {}
+    "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj": {
+    "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj",
+        "projectUniqueName": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj",
         "projectName": "Harjoituksia 2",
-        "projectPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj",
-        "packagesPath": "C:\\Users\\Sanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\obj\\",
+        "projectPath": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\Harjoituksia 2.csproj",
+        "packagesPath": "C:\\Users\\sanna.kunnasluoto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia2\\Harjoituksia 2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sanna.kunnasluoto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
