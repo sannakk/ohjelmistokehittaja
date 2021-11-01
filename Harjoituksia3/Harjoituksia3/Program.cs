@@ -99,11 +99,13 @@ namespace Harjoituksia3
             int ika = int.Parse(Console.ReadLine());
             Console.WriteLine(ika + "-näytät ikäistäsi nuoremmalta!");
         }
-        static void Main()
+        static void Tehtävä12()
         {
             Console.WriteLine("Anna lukua 10 suurempi luku: ");
             int nro = int.Parse(Console.ReadLine());
-            Console.WriteLine(nro);
+            int nrot;
+            for (nrot = 1; nrot < nro; nrot++)
+                Console.WriteLine(nro);
         }
 
             static void Tehtävä13()
@@ -131,6 +133,22 @@ namespace Harjoituksia3
             {
                 Console.WriteLine("Toinen on positiivinen ja toinen negatiivinen");
             }
+        }
+        static void Tehtävä15()
+        {
+            Console.WriteLine("Kirjoita lause: ");
+            string lause = Console.ReadLine();
+            string sana = "";
+            string[] arr = lause.Split(' ');
+            for (int i = 0; i < arr.Length; i++)
+                {
+                if (arr[i].Length > sana.Length)
+                {
+                    sana = arr[i];
+                }
+            }
+            Console.WriteLine("Lauseen pisin sana on: " + sana);
+
         }
         static void Tehtävä16()
         {
