@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia3\\Harjoituksia3\\Harjoituksia3.csproj",
-      "projectName": "Harjoituksia3",
-      "projectPath": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia3\\Harjoituksia3\\Harjoituksia3.csproj",
+      "projectUniqueName": "C:\\Users\\sanna.kunnasluoto\\source\\repot\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj",
+      "projectName": "Matematiikkaa",
+      "projectPath": "C:\\Users\\sanna.kunnasluoto\\source\\repot\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj",
       "packagesPath": "C:\\Users\\sanna.kunnasluoto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanna.kunnasluoto\\source\\repos\\ohjelmistokehittaja\\Harjoituksia3\\Harjoituksia3\\obj\\",
+      "outputPath": "C:\\Users\\sanna.kunnasluoto\\source\\repot\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

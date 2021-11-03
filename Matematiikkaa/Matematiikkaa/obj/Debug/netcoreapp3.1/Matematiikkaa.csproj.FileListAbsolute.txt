@@ -1,0 +1,13 @@
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.exe
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.deps.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.dev.json
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csprojAssemblyReference.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csproj.CoreCompileInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfoInputs.cache
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfo.cs
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\sanna.kunnasluoto\source\repot\ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.genruntimeconfig.cache
