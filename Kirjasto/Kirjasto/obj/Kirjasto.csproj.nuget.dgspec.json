@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj": {}
+    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Kirjasto\\Kirjasto\\Kirjasto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj": {
+    "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Kirjasto\\Kirjasto\\Kirjasto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj",
-        "projectName": "Matematiikkaa",
-        "projectPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\Matematiikkaa.csproj",
+        "projectUniqueName": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Kirjasto\\Kirjasto\\Kirjasto.csproj",
+        "projectName": "Kirjasto",
+        "projectPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Kirjasto\\Kirjasto\\Kirjasto.csproj",
         "packagesPath": "C:\\Users\\Sanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Matematiikkaa\\Matematiikkaa\\obj\\",
+        "outputPath": "C:\\Users\\Sanna\\source\\repos\\ohjelmistokehittaja\\Kirjasto\\Kirjasto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sanna\\AppData\\Roaming\\NuGet\\NuGet.Config",

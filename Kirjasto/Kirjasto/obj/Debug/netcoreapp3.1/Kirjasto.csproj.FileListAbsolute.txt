@@ -1,0 +1,14 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.deps.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.runtimeconfig.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.runtimeconfig.dev.json
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.AssemblyInfoInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.AssemblyInfo.cs
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.dll
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.genruntimeconfig.cache
