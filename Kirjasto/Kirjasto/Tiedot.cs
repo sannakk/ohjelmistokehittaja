@@ -6,10 +6,10 @@ namespace Kirjasto
 {
     class Tiedot
     {
-        string kirjanNimi;
-        int sivuMaara;
-        string kirjailija;
-        int kirjaKpl;
+        public string kirjanNimi;
+        public int sivuMaara;
+        public string kirjailija;
+        public int kirjaKpl;
 
         public Tiedot(string kirja, int sivut, string tekija, int maara)
         {
@@ -25,21 +25,26 @@ namespace Kirjasto
         }
         public void Lainaa(int kpl)
         {
-            if(kpl > kirjaKpl)
+            if (kpl > kirjaKpl)
             {
                 Console.WriteLine("Et voi lainata näin montaa kirjaa!");
             }
             else
             {
-                kirjaKpl = kirjaKpl - kpl;  
+                kirjaKpl = kirjaKpl - kpl;
             }
-            Console.WriteLine("Lainasit kirjoja " + kpl + " kpl, "  +  "kirjoja tällä hetkellä jäljellä " + kirjaKpl + " kpl.");
+            Console.WriteLine("Lainasit kirjoja " + kpl + " kpl, " + "kirjoja tällä hetkellä jäljellä " + kirjaKpl + " kpl.");
         }
 
         public void LisaaKappale(int kpl)
         {
             kirjaKpl = kirjaKpl + kpl;
             Console.WriteLine("Kirjoja tällä hetkellä: " + kirjaKpl);
+        }
+
+        public int Sivut()
+        {
+            return sivuMaara;
         }
     }
 }
