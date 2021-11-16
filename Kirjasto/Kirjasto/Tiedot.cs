@@ -37,13 +37,11 @@ namespace Kirjasto
             if (kpl > kirjaKpl)
             {
                 Console.WriteLine("Et voi lainata näin montaa kirjaa!");
-                Takaisin();
             }
             else
             {
                 kirjaKpl = kirjaKpl - kpl;
                 Console.WriteLine("Lainasit kirjoja " + kpl + " kpl, " + "kirjoja tällä hetkellä jäljellä " + kirjaKpl + " kpl.");
-                Takaisin();
             }
 
         }
@@ -52,18 +50,8 @@ namespace Kirjasto
         {
             Console.WriteLine("Monta haluat palauttaa? ");
             kpl2 = int.Parse(Console.ReadLine());
-
-            if (kpl2 >= kirjaKpl)
-            {
-                Console.WriteLine("Et voi palauttaa kirjaa, kaikki kappaleet ovat kirjastossamme!");
-                Takaisin();
-            }
-            else
-            {
-                kirjaKpl = kirjaKpl + kpl2;
-                Console.WriteLine("Kirjoja tällä hetkellä: " + kirjaKpl);
-                Takaisin();
-            }
+            kirjaKpl = kirjaKpl + kpl2;
+            Console.WriteLine("Kirjoja tällä hetkellä: " + kirjaKpl);
         }
 
         public int Sivut()
@@ -96,15 +84,7 @@ namespace Kirjasto
             }
         }
 
-        public void Takaisin()
-        {
-            Console.WriteLine("Palaa takaisin? Kyllä (k)");
-            string takas = Console.ReadLine();
-            if (takas == "k")
-            {
-                (jotain);
-            }
-        }
+        
     }
 }
 
