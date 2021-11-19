@@ -58,6 +58,7 @@ namespace Lomake
             this.TietotauluDG.RowTemplate.Height = 24;
             this.TietotauluDG.Size = new System.Drawing.Size(671, 196);
             this.TietotauluDG.TabIndex = 0;
+            this.TietotauluDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TietotauluDG_CellContentClick);
             // 
             // label1
             // 
@@ -165,6 +166,7 @@ namespace Lomake
             this.TyhjennaBT.TabIndex = 13;
             this.TyhjennaBT.Text = "TYHJENNÄ";
             this.TyhjennaBT.UseVisualStyleBackColor = true;
+            this.TyhjennaBT.Click += new System.EventHandler(this.TyhjennaBT_Click);
             // 
             // TallennaBT
             // 
@@ -174,6 +176,7 @@ namespace Lomake
             this.TallennaBT.TabIndex = 14;
             this.TallennaBT.Text = "TALLENNA";
             this.TallennaBT.UseVisualStyleBackColor = true;
+            this.TallennaBT.Click += new System.EventHandler(this.TallennaBT_Click);
             // 
             // PaivitaBT
             // 
@@ -183,6 +186,7 @@ namespace Lomake
             this.PaivitaBT.TabIndex = 15;
             this.PaivitaBT.Text = "PÄIVITÄ";
             this.PaivitaBT.UseVisualStyleBackColor = true;
+            this.PaivitaBT.Click += new System.EventHandler(this.PaivitaBT_Click);
             // 
             // PoistaBT
             // 
@@ -192,6 +196,7 @@ namespace Lomake
             this.PoistaBT.TabIndex = 16;
             this.PoistaBT.Text = "POISTA";
             this.PoistaBT.UseVisualStyleBackColor = true;
+            this.PoistaBT.Click += new System.EventHandler(this.PoistaBT_Click);
             // 
             // Form1
             // 
@@ -217,6 +222,7 @@ namespace Lomake
             this.Controls.Add(this.TietotauluDG);
             this.Name = "Form1";
             this.Text = "Opiskelijarekisterin ylläpito";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.TietotauluDG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -19,6 +19,5 @@ C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.F
 C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.Properties.Resources.resources
 C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.csproj.GenerateResource.cache
 C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.csproj.CoreCompileInputs.cache
-C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.csproj.CopyComplete
 C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.exe
 C:\Users\Sanna\source\repos\ohjelmistokehittaja\Lomake\Lomake\obj\Debug\Lomake.pdb
