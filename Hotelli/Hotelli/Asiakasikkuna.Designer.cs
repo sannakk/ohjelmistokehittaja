@@ -133,6 +133,7 @@ namespace Hotelli
             this.AsiakkaatDG.RowTemplate.Height = 24;
             this.AsiakkaatDG.Size = new System.Drawing.Size(458, 192);
             this.AsiakkaatDG.TabIndex = 8;
+            this.AsiakkaatDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.AsiakkaatDG_CellClick);
             // 
             // EtunimiTB
             // 
@@ -221,6 +222,7 @@ namespace Hotelli
             this.TyhjennaBT.TabIndex = 19;
             this.TyhjennaBT.Text = "Tyhjennä";
             this.TyhjennaBT.UseVisualStyleBackColor = true;
+            this.TyhjennaBT.Click += new System.EventHandler(this.TyhjennaBT_Click);
             // 
             // Asiakasikkuna
             // 
@@ -249,6 +251,7 @@ namespace Hotelli
             this.Controls.Add(this.label1);
             this.Name = "Asiakasikkuna";
             this.Text = "Asiakkaat";
+            this.Load += new System.EventHandler(this.Asiakasikkuna_Load);
             ((System.ComponentModel.ISupportInitialize)(this.AsiakkaatDG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

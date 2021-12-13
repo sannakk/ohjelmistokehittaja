@@ -10,6 +10,11 @@ namespace Hotelli
 {
     class YHDISTA
     {
+        public string YhteysLause()
+        {
+            return "datasource=localhost; port=3306;username=root;password=;database=hotelli";
+        }
+
         private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306; username=root; password=; database=hotelli; SSL Mode=None");
 
         public MySqlConnection OtaYhteys()

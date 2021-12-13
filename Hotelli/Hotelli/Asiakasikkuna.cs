@@ -19,6 +19,11 @@ namespace Hotelli
             InitializeComponent();
         }
 
+        private void Asiakasikkuna_Load(object sender, EventArgs e)
+        {
+            AsiakkaatDG.DataSource = asiakas.haeAsiakkaat();
+        }
+
         private void LisaaBT_Click(object sender, EventArgs e)
         {
             String enimi = EtunimiTB.Text;
@@ -35,7 +40,7 @@ namespace Hotelli
             }
             else
             {
-                Boolean lisaaAsiakas = asiakas.lisaaAsiakas(enimi, snimi, osoite, pnro, ppaikka, kayttaja, ssana);
+                Boolean lisaaAsiakas = asiakas.lisaaAsiakas(enimi, snimi, osoite, pnro, ppaikka, kayttaja);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Uusi asiakas lisätty", "Asiakkaan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -48,10 +53,6 @@ namespace Hotelli
             AsiakkaatDG.DataSource = asiakas.haeAsiakkaat();
 
             }
-        private void Asiakasikkuna_Load(object sender, EventArgs e)
-        {
-            AsiakkaatDG.DataSource = asiakas.haeAsiakkaat();
-        }
 
         private void MuokkaaBT_Click(object sender, EventArgs e)
         {
@@ -60,7 +61,7 @@ namespace Hotelli
             String osoite = OsoiteTB.Text;
             String pnro = PostinumeroTB.Text;
             String ppaikka = PostitoimiTB.Text;
-            String kayttaja = KayttajaTB.Text;
+            String ktunnus = KayttajaTB.Text;
 
 
             if (enimi.Trim().Equals("") || snimi.Trim().Equals("") || osoite.Trim().Equals("") || pnro.Trim().Equals("") || ppaikka.Trim().Equals(""))
@@ -69,7 +70,7 @@ namespace Hotelli
             }
             else
             {
-                Boolean muokkaaAsiakas = asiakas.muokkaaAsiakasta(enimi, snimi, osoite, pnro, ppaikka, kayttaja);
+                Boolean muokkaaAsiakas = asiakas.muokkaaAsiakasta(enimi, snimi, osoite, pnro, ppaikka, ktunnus);
                 if (muokkaaAsiakas)
                 {
                     MessageBox.Show("Uusi asiakas päivitetty onnistuneesti", "Asiakkaan muokkaus", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -116,7 +117,7 @@ namespace Hotelli
             KayttajaTB.Text = AsiakkaatDG.CurrentRow.Cells[5].Value.ToString();
         }
 
-        
+       
     }
     
 }

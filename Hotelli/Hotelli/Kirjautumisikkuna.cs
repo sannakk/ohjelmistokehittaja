@@ -25,7 +25,7 @@ namespace Hotelli
             DataTable taulu = new DataTable();
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             MySqlCommand komento = new MySqlCommand();
-            String kysely = "SELECT Ktunnus, Salasana FROM asiakkaat WHERE Ktunnus = @kt AND Salasana = @ss";
+            String kysely = "SELECT Ktunnus, Salasana FROM kayttajat WHERE Ktunnus = @kt AND Salasana = @ss";
 
             komento.CommandText = kysely;
             komento.Connection = tietokantaan.OtaYhteys();

@@ -16,31 +16,29 @@ namespace Hotelli
       
         public DataTable asiakaslista()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT AsiakasId, Concat(Etunimi, ' ',Sukunimi) AS Nimi FROM asiakkaat", yhteys.OtaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT asiakasid, Concat(Etunimi, ' ',Sukunimi) AS Nimi FROM asiakkaat", yhteys.OtaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
             adapteri.SelectCommand = komento;
             adapteri.Fill(taulu);
             return taulu;
         }
-        public bool lisaaAsiakas(String enimi, String snimi, String osoite, String pnro, String ppaikka, String kayttaja, String ssana)
+        public bool lisaaAsiakas(String enimi, String snimi, String osoite, String pnro, String ppaikka, String asiid)
         {
             MySqlCommand komento = new MySqlCommand();
             String lisayskysely = "INSERT INTO asiakkaat " +
-                "(Ktunnus, Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, Salasana) " +
-                "VALUES (@ktu, @enm, @snm, @oso, @pno, @ptp, @ssa); ";
+                "(asiakasid, Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka) " +
+                "VALUES (@asid, @enm, @snm, @oso, @pno, @ptp); ";
             komento.CommandText = lisayskysely;
             komento.Connection = yhteys.OtaYhteys();
-            komento.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = kayttaja;
+            komento.Parameters.Add("@asid", MySqlDbType.VarChar).Value = asiid;
             komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi;
             komento.Parameters.Add("@snm", MySqlDbType.VarChar).Value = snimi;
             komento.Parameters.Add("@oso", MySqlDbType.VarChar).Value = osoite;
             komento.Parameters.Add("@pno", MySqlDbType.VarChar).Value = pnro;
             komento.Parameters.Add("@ptp", MySqlDbType.VarChar).Value = ppaikka;
-            komento.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = ssana;
+
            
-
-
 
             yhteys.AvaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
@@ -55,11 +53,9 @@ namespace Hotelli
             }
         }
 
-
-        // Luodaan funktio kaikkien asiakastietojan hakemiseksi
         public DataTable haeAsiakkaat()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, Ktunnus FROM asiakkaat", yhteys.OtaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT Etunimi, Sukunimi, Lahiosoite, Postinumero, Postitoimipaikka, asiakasid FROM asiakkaat", yhteys.OtaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
@@ -69,22 +65,22 @@ namespace Hotelli
             return taulu;
         }
 
-        // Luodaan funktio asiakkaan tietojen muokkaamiseksi
-        public bool muokkaaAsiakasta(String enimi, String snimi, String osoite, String pnro, String ppaikka, String ktunnus)
+        
+        public bool muokkaaAsiakasta(String enimi, String snimi, String osoite, String pnro, String ppaikka, String asiid)
         {
             MySqlCommand komento = new MySqlCommand();
             String paivityskysely = "UPDATE `asiakkaat` SET `Etunimi`= @enm," +
                 "`Sukunimi`= @snm,`Lahiosoite`= @oso,`Postinumero`= @pno,`Postitoimipaikka`= @ptp" +
-                " WHERE Ktunnus = @ktu";
+                " WHERE asiakasid = @asid";
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.OtaYhteys();
-            //@ktu,@enm, @snm, @oso, @pno, @ptp, @ssa
+          
             komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi;
             komento.Parameters.Add("@snm", MySqlDbType.VarChar).Value = snimi;
             komento.Parameters.Add("@oso", MySqlDbType.VarChar).Value = osoite;
             komento.Parameters.Add("@pno", MySqlDbType.VarChar).Value = pnro;
             komento.Parameters.Add("@ptp", MySqlDbType.VarChar).Value = ppaikka;
-            komento.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = ktunnus;
+            komento.Parameters.Add("@asid", MySqlDbType.VarChar).Value = asiid;
 
 
 
@@ -101,16 +97,15 @@ namespace Hotelli
             }
         }
 
-        // Luodaan funktio asiakkaan tietojen poistamiseen
-        // tähän tarvitaan vain käyttäjätunnus
-        public bool poistaAsiakas(String ktunnus)
+    
+        public bool poistaAsiakas(String asiid)
         {
             MySqlCommand komento = new MySqlCommand();
-            String poistokysely = "DELETE FROM asiakkaat WHERE Ktunnus = @ktu";
+            String poistokysely = "DELETE FROM asiakkaat WHERE asiakasid = @asid";
             komento.CommandText = poistokysely;
             komento.Connection = yhteys.OtaYhteys();
-            //@ktu
-            komento.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = ktunnus;
+            
+            komento.Parameters.Add("@asid", MySqlDbType.VarChar).Value = asiid;
 
             yhteys.AvaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
