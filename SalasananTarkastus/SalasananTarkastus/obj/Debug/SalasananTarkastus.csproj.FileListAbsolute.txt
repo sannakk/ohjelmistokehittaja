@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.SalasanaForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.NopanheittopeliForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.pdb

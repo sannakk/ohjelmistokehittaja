@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\bin\Debug\RoomalaisetNrot.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\bin\Debug\RoomalaisetNrot.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\bin\Debug\RoomalaisetNrot.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.RoomalaisiksiForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\RoomalaisetNrot\RoomalaisetNrot\obj\Debug\RoomalaisetNrot.pdb

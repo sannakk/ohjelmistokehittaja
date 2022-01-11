@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb

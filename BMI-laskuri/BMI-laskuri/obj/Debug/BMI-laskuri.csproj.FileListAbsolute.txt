@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI_laskuri.BMIform.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI_laskuri.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.pdb
