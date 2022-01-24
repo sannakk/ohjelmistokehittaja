@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\bin\Debug\Muistio.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\bin\Debug\Muistio.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\bin\Debug\Muistio.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.NotepadForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Muistio\Muistio\obj\Debug\Muistio.pdb

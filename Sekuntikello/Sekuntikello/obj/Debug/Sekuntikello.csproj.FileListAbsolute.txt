@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.SekkariForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb

@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.DiaryForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb

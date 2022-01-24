@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.SuosikkiForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.pdb

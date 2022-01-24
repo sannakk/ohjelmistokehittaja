@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\bin\Debug\OppilaitostenTiedot.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\bin\Debug\OppilaitostenTiedot.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\bin\Debug\OppilaitostenTiedot.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.AvainhenkiloForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\OppilaitostenTiedot\OppilaitostenTiedot\obj\Debug\OppilaitostenTiedot.pdb

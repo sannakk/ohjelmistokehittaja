@@ -1,0 +1,10 @@
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\bin\Debug\10Kysymystä.exe.config
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\bin\Debug\10Kysymystä.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\bin\Debug\10Kysymystä.pdb
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\10Kysymystä.csproj.AssemblyReference.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\_10Kysymystä.VastauslomakeForm.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\_10Kysymystä.Properties.Resources.resources
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\10Kysymystä.csproj.GenerateResource.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\10Kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\10Kysymystä.exe
+C:\Users\Sanna\source\repos\ohjelmistokehittaja\10Kysymystä\10Kysymystä\obj\Debug\10Kysymystä.pdb
